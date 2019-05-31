@@ -4,6 +4,7 @@
     height: 300px;
     background-color: white;
     display: flex;
+    flex-flow: column;
     justify-content: center;
     margin: auto;
     border-radius: 10px;

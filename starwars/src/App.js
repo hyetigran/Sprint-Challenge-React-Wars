@@ -41,6 +41,15 @@ class App extends Component {
               key={index}
               character={character.name}
               />
+            <CharacterStats
+              key={index}
+              birthYear={character.birth_year}
+              eyeColor={character.eye_color}
+              height={character.heigth}
+              homeworld={character.homeworld}
+
+
+              />
             </div>
           ))
           }
