@@ -1,0 +1,11 @@
+.CharacterWrapper {
+    border: 1px solid blue;
+    width: 80%;
+    height: 300px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 2%;
+}
