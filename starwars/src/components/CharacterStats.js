@@ -7,7 +7,6 @@ const characterStats = ({birthYear, eyeColor, height, homeworld}) => {
       <p>Birth Year: {birthYear}</p>
       <p>Eye Color: {eyeColor}</p>
       <p>Height: {height}</p>
-      <p>Home World: {homeworld}</p>
     </div>
 
   )
